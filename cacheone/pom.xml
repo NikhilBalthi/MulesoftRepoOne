@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>4045ee49-cd53-46be-9eed-b64fc5f81646</groupId>
-	<artifactId>cacheone</artifactId>
+	<artifactId>cacheone-two</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule-application</packaging>
 
-	<name>cacheone</name>
+	<name>cacheone-two</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -45,7 +45,7 @@
 				      <muleVersion>${app.runtime}</muleVersion>
 				      <username>nikhilbalthi99</username>
 				      <password>BBnik667!!</password>
-				      <applicationName>deploy-two</applicationName>
+				      <applicationName>deploy-two-one</applicationName>
 				      <environment>Sandbox</environment>
                       <replicas>1</replicas>
                       <vCores>0.1</vCores>
